@@ -50,6 +50,14 @@ The pipeline ensures the language model generates answers **grounded in external
 
 ---
 
+# Outputs
+
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/b01e7fda-72db-440d-b9f7-3f5b2ac7d204" />
+
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/4097dcb1-0dec-46b4-8521-7a36e6a8cedf" />
+
+---
+
 # Technologies Used
 
 Python – Core programming language
